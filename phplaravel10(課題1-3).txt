@@ -1,0 +1,6 @@
+課題
+【1】Routing
+
+【2】RoutingをGroup化することで、設定したURLを後から変更する際に一度に変更が可能になる。また、重複したコードをまとめることができ、各Controllerの中にどのActionがあるのかが見やすくなる。
+
+【3】Route::get('XXX', 'AAAController@bbb');
